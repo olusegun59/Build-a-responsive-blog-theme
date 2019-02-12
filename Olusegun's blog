@@ -95,3 +95,5 @@ $("button").on("click", function(){
 });
 </script>
 </body>
+
+Link to the blog is http://dash.ga.co/Olusegun59/build-your-own-blog-theme
